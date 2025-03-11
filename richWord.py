@@ -13,5 +13,7 @@ class RichWord:
         # print("setter of parola called" )
         self._corretta = boolValue
 
+
     def __str__(self):
         return self._parola
+
